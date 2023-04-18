@@ -1,0 +1,1103 @@
+[
+    {
+        "name": "AI聊天",
+        "icon": "el-icon-chat-dot-round",
+        "web": [
+            {
+                "title": "ChatGPT",
+                "url": "https://chat.openai.com",
+                "desc": "最热门的AI聊天机器人应用",
+                "logo": "assets/images/logos/480px-ChatGPT_logo.svg.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_13-51-17.png"
+            },
+            {
+                "title": "谷歌Bard",
+                "url": "https://bard.google.com/",
+                "desc": "Google 面向公众推出由 LaMDA 提供支持的实验性对话式 AI 服务，目前开放了测试申请，美国和英国用户可以加入候选名单，打开 Bard 官网即可测试申请.目前 Bard 不支持中文，Bard 可以联网搜索，感兴趣的可以使用美国或者英国 IP 网络打开官网进行申请测试。",
+                "logo": "assets/images/web/google.svg",
+                "screenshot": "assets/images/web/zhitu-des/screenshot_2023-04-03_12-53-49.png"
+            },
+            {
+                "title": "ChatYoutube",
+                "url": "https://chatyoutube.com",
+                "desc": "贴Youtube视频地址，就可以针对视频进行ChatGPT聊天讨论了",
+                "logo": "assets/images/logos/268ed-chatyoutube.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_13-29-51.png"
+            },
+            {
+                "title": "CharactorAI",
+                "url": "https://beta.character.ai",
+                "desc": "和AI生成的人物聊天对话",
+                "logo": "assets/images/logos/a744a-beta.character.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_13-31-43.png"
+            },
+            {
+                "title": "charactorGPT",
+                "url": "https://alethea.ai/characterGPT.html",
+                "desc": "AI生成虚拟人",
+                "logo": "assets/images/logos/48286-alethea.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_14-35-49.png"
+            },
+            {
+                "title": "cody",
+                "url": "https://www.meetcody.ai",
+                "desc": "商业人工智能助理",
+                "logo": "assets/images/logos/22198-www.meetcody.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_18-04-45.png"
+            },
+            {
+                "title": "Soofy",
+                "url": "https://soofy.io",
+                "desc": "通过ai，帮助提高交流水平，学习新语言",
+                "logo": "assets/images/logos/7cfa6-soofy.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_14-41-37.png"
+            }
+        ]
+    },
+    {
+        "name": "AI图片",
+        "icon": "el-icon-picture-outline",
+        "web": [
+            {
+                "title": "MidJourmey官方网站",
+                "url": "https://www.midjourney.com/home/?refer=aicangshu.net",
+                "desc": "基于稳定扩散的人工智能艺术生成器。他们的网站将其描述为“一个独立的研究实验室，探索新的思想媒介，扩展人类物种的想象力。”",
+                "logo": "assets/images/web/480px-Midjourney_Emblem.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_14-43-22.png"
+            },
+            {
+                "title": "无界AI",
+                "url": "https://www.wujieai.com/?refer=aicangshu.net",
+                "desc": "国风、国潮、国漫AI绘画内容社区",
+                "logo": "assets/images/logos/84b7d-www.wujieai.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_14-44-30.png"
+            },
+            {
+                "title": "flair",
+                "url": "https://flair.ai/?refer=aicangshu.net",
+                "desc": "优秀的智能更改背景，有着较好的光线处理",
+                "logo": "https://imagedelivery.net/i1XPW6iC_chU01_6tBPo8Q/1e973b34-893d-4911-7a11-f239528e4b00/public",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-01-25.png"
+            },
+            {
+                "title": "Draft",
+                "url": "https://draft.art/?refer=aicangshu.net",
+                "desc": "国内的AI图片生成社区",
+                "logo": "assets/images/logos/99612-draft.art.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-02-39.png"
+            },
+            {
+                "title": "transpic国内版",
+                "url": "https://transpic.cn/?refer=aicangshu.net",
+                "desc": "国内的图像转手绘漫画工具",
+                "logo": "assets/images/web/transpic.ai.ico",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-03-43.png"
+            },
+            {
+                "title": "Crypko",
+                "url": "https://crypko.ai/cn/?refer=aicangshu.net",
+                "desc": "动漫角色生成平台",
+                "logo": "assets/images/logos/1ed7c-crypko.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-04-54.png"
+            },
+            {
+                "title": "Scribble Diffusion",
+                "url": "https://scribblediffusion.com/?refer=aicangshu.net",
+                "desc": "通过简笔画草图，AI自动生成图片",
+                "logo": "assets/images/web/scribblediffusion.com.svg",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-06-05.png"
+            },
+            {
+                "title": "Looka",
+                "url": "https://looka.com/?refer=aicangshu.net",
+                "desc": "一键AI生成LOGO",
+                "logo": "assets/images/logos/6534a-looka.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-07-02.png"
+            },
+            {
+                "title": "Blockade Labs",
+                "url": "https://skybox.blockadelabs.com/?refer=aicangshu.net",
+                "desc": "导入2D环绕图，生成360全息场景",
+                "logo": "assets/images/web/skybox.blockadelabs.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-07-38.png"
+            },
+            {
+                "title": "RoomGPT",
+                "url": "https://www.roomgpt.io/?refer=aicangshu.net",
+                "desc": "专门用于生成室内装修风格设计图片的AI工具！",
+                "logo": "assets/images/logos/94b6f-www.roomgpt.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-08-04.png"
+            },
+            {
+                "title": "AILab Tools",
+                "url": "https://www.ailabtools.com/?refer=aicangshu.net",
+                "desc": "AILabTools是一个人工智能能力和工具的供应商，提供广泛的人",
+                "logo": "assets/images/logos/210d6-www.ailabtools.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-08-32.png"
+            },
+            {
+                "title": "Vega AI",
+                "url": "https://rightbrain.art/?refer=aicangshu.net",
+                "desc": "识别中文关键词，创作你的艺术作品！",
+                "logo": "assets/images/logos/WX20230223-133138@2x.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-09-10.png"
+            },
+            {
+                "title": "BeautifulAI",
+                "url": "https://www.beautiful.ai/?refer=aicangshu.net",
+                "desc": "用AI生成漂亮的PPT",
+                "logo": "assets/images/web/beautiful.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-10-11.png"
+            },
+            {
+                "title": "Tome",
+                "url": "https://beta.tome.app/tomeforedu/?refer=aicangshu.net",
+                "desc": "使用图文进行叙事，生成出PPT",
+                "logo": "assets/images/logos/75267-beta.tome.app.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-10-36.png"
+            },
+            {
+                "title": "Easy-Peasy.AI",
+                "url": "https://easy-peasy.ai/?refer=aicangshu.net",
+                "desc": "包含ai生成文案，图片，智能对话，音频转文案等功能的集成应用",
+                "logo": "assets/images/logos/c2fcf-easy-peasy.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-11-12.png"
+            },
+            {
+                "title": "Getimg",
+                "url": "https://getimg.ai/?refer=aicangshu.net",
+                "desc": "关键词生成图片的AI工具，可以在生成图基础上涂抹二次修改！",
+                "logo": "assets/images/logos/1f21b-getimg.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-12-08.png"
+            },
+            {
+                "title": "PhotorRoom",
+                "url": "https://www.photoroom.com/?refer=aicangshu.net",
+                "desc": "AI换图片背景，快速移除不需要的元素",
+                "logo": "assets/images/logos/ecdc3-www.photoroom.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-13-23.png"
+            },
+            {
+                "title": "文心一格",
+                "url": "https://yige.baidu.com/?refer=aicangshu.net#",
+                "desc": "百度的做图AI",
+                "logo": "assets/images/logos/2c202-yige.baidu.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-15-57.png"
+            },
+            {
+                "title": "Niji Journey",
+                "url": "https://nijijourney.com/zh/?refer=aicangshu.net",
+                "desc": "Midjourney和Spellbrush合作打造的二次元生成器",
+                "logo": "assets/images/logos/9c4ce-nijijourney.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-17-45.png"
+            },
+            {
+                "title": "LeiaPix",
+                "url": "https://convert.leiapix.com/?refer=aicangshu.net",
+                "desc": "快速将2D图片转化为3D动态运动效果",
+                "logo": "assets/images/logos/5e682-convert.leiapix.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-18-30.png"
+            },
+            {
+                "title": "Phygital+",
+                "url": "https://phygital.plus/?refer=aicangshu.net",
+                "desc": "AI可视化设计，超多图片处理方式！",
+                "logo": "assets/images/logos/78efb-phygital.plus.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-20-52.png"
+            },
+            {
+                "title": "scenario",
+                "url": "https://app.scenario.com/?refer=aicangshu.net",
+                "desc": "AI生成各种游戏素材",
+                "logo": "assets/images/logos/30614-app.scenario.gg.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-45-36.png"
+            },
+            {
+                "title": "lexica",
+                "url": "https://lexica.art/?refer=aicangshu.net",
+                "desc": "SD模型在线生成图片",
+                "logo": "assets/images/logos/c72ed-lexica.art.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-46-11.png"
+            },
+            {
+                "title": "Waifulabs",
+                "url": "assets/images/logos/b88f4-waifulabs.com.png",
+                "desc": "AI生成游戏立绘头像",
+                "logo": "assets/images/logos/b88f4-waifulabs.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-55-16.png"
+            },
+            {
+                "title": "Piggy To",
+                "url": "https://piggy.to/magic?refer=aicangshu.net",
+                "desc": "用关键字生成手机幻灯片",
+                "logo": "assets/images/logos/89e07-piggy.to.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-56-47.png"
+            },
+            {
+                "title": "VisualHound",
+                "url": "https://visualhound.com/?refer=aicangshu.net",
+                "desc": "用人工智能模拟你的时装设计理念",
+                "logo": "assets/images/logos/b1e39-visualhound.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-57-18.png"
+            },
+            {
+                "title": "SolidGrids",
+                "url": "https://www.solidgrids.com/?refer=aicangshu.net",
+                "desc": "AI去除背景",
+                "logo": "assets/images/web/solidgrids.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-57-44.png"
+            },
+            {
+                "title": "GET3D (Nvidia)",
+                "url": "https://nv-tlabs.github.io/GET3D/?refer=aicangshu.net",
+                "desc": "高质量的3d纹理生成模型",
+                "logo": "assets/images/logos/6226c-nv-tlabs.github.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-58-23.png"
+            },
+            {
+                "title": "Generated Photos",
+                "url": "https://generated.photos/?refer=aicangshu.net",
+                "desc": "快速生成脸部头像",
+                "logo": "assets/images/logos/e0b54-generated.photos.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_15-59-23.png"
+            },
+            {
+                "title": "Pollinations",
+                "url": "https://pollinations.ai/?refer=aicangshu.net",
+                "desc": "可以生成图片和视频的AI工具",
+                "logo": "assets/images/logos/d84bf-pollinations.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-00-08.png"
+            },
+            {
+                "title": "Craiyon",
+                "url": "https://www.craiyon.com/?refer=aicangshu.net",
+                "desc": "迷你DALL · E，可以将任何文本提示绘制成图像",
+                "logo": "assets/images/logos/da963-www.craiyon.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-00-56.png"
+            },
+            {
+                "title": "StockImg AI",
+                "url": "https://stockimg.ai/?refer=aicangshu.net",
+                "desc": "生成标志，股票图像，海报，书籍封面，和更多的设计素材",
+                "logo": "assets/images/web/stockimg.ai.jpg",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-01-38.png"
+            },
+            {
+                "title": "Pixela AI",
+                "url": "https://pixela.ai/?refer=aicangshu.net",
+                "desc": "AI生成游戏地图纹理素材",
+                "logo": "assets/images/logos/cccee-pixela.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-02-00.png"
+            },
+            {
+                "title": "Pebblely",
+                "url": "https://pebblely.com/?refer=aicangshu.net",
+                "desc": "几秒钟内将枯燥的产品图像转化为漂亮的营销资产。AI 根据你上传的图片创建背景，并相应地添加阴影和反射。",
+                "logo": "assets/images/web/pebbely.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-02-45.png"
+            },
+            {
+                "title": "Profile Picture AI",
+                "url": "https://www.profilepicture.ai/?refer=aicangshu.net",
+                "desc": "用人工智能创建你完美的个人资料，超强的头像生成器！",
+                "logo": "assets/images/logos/973fb-www.profilepicture.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-02-45.png"
+            },
+            {
+                "title": "Playground AI",
+                "url": "https://playgroundai.com/?refer=aicangshu.net",
+                "desc": "AI在线绘制图片",
+                "logo": "assets/images/logos/4e2b4-playgroundai.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-04-39.png"
+            },
+            {
+                "title": "Magic Studio",
+                "url": "https://magicstudio.com/zh?refer=aicangshu.net",
+                "desc": "用 AI 图像编辑工具在几秒钟内创建惊人的视觉效果。删除不需要的东西，切换背景或放大你的图片。",
+                "logo": "assets/images/logos/b394f-magicstudio.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-05-01.png"
+            },
+            {
+                "title": "DALL 路 E2",
+                "url": "https://openai.com/product/dall-e-2/?refer=aicangshu.net",
+                "desc": "DALL · E2可以通过文本描述创建原创的、真实的图像和艺术。它可以结合概念、属性和风格。",
+                "logo": "assets/images/logos/5cd37-openai.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-05-40.png"
+            },
+            {
+                "title": "NovelAI",
+                "url": "https://novelai.net/?refer=aicangshu.net",
+                "desc": "AI绘制动漫人物",
+                "logo": "assets/images/logos/cba32-novelai.net.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-05-58.png"
+            },
+            {
+                "title": "DreamStudio",
+                "url": "https://beta.dreamstudio.ai/?refer=aicangshu.net",
+                "desc": "强大的制图AI，简称SD",
+                "logo": "assets/images/logos/3b495-stability.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-07-12.png"
+            },
+            {
+                "title": "You",
+                "url": "https://you.com/?refer=aicangshu.net",
+                "desc": "人工智能搜索引擎。",
+                "logo": "assets/images/logos/6ff16-you.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-10-57.png"
+            },
+            {
+                "title": "意间AI绘画",
+                "url": "http://portal.yjai.art/?refer=aicangshu.net",
+                "desc": "意间ai绘画，微信小程序。",
+                "logo": "assets/images/logos/ea6ab-yjai.ai-galaxy.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-12-03.png"
+            },
+            {
+                "title": "换脸科技",
+                "url": "http://huanlian.com/?refer=aicangshu.net",
+                "desc": "换脸科技提供人脸api支持图片换脸、视频换脸等人脸融合技术，可用于影视替身换脸、视频换脸、直播换脸、视频变脸、景区换脸等场景，为开发者提供api调用，为企业提ai创意支持。",
+                "logo": "assets/images/web/huanlian.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-12-37.png"
+            },
+            {
+                "title": "toonme",
+                "url": "https://toonme.com/?refer=aicangshu.net",
+                "desc": "是时候生成卡通的你了。",
+                "logo": "assets/images/logos/c782c-toonme.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-13-07.png"
+            },
+            {
+                "title": "Vega AI 创作平台",
+                "url": "https://rightbrain.art/text2Image?refer=aicangshu.net",
+                "desc": "Vega AI 创作平台，Ai绘画，文生图，图生图，支持风格定制。",
+                "logo": "assets/images/logos/f12f4-rightbrain.art.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-13-43.png"
+            },
+            {
+                "title": "ZMO.Ai",
+                "url": "https://imgcreator.zmo.ai/?refer=aicangshu.net",
+                "desc": "创建任何图像。",
+                "logo": "assets/images/web/imgcreator.zmo.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-14-19.png"
+            },
+            {
+                "title": "Booth.ai",
+                "url": "https://www.booth.ai/?refer=aicangshu.net",
+                "desc": "通过人工智能生成快速、廉价、高质量的图像，无需实物样本。通过上传您自己产品的图像，并通过编写简单的提示轻松生成专业级产品照片，并创建您想要的结果。",
+                "logo": "assets/images/logos/d18fe-www.booth.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-14-52.png"
+            },
+            {
+                "title": "AI Creator",
+                "url": "https://ai-creator.net/?refer=aicangshu.net",
+                "desc": "创作者AI，定制你的专属AI",
+                "logo": "assets/images/web/ai-creator.net.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-15-25.png"
+            },
+            {
+                "title": "stariu",
+                "url": "https://stariu.com/?refer=aicangshu.net",
+                "desc": "midjourney ai绘画提示词生成",
+                "logo": "assets/images/logos/b328c-stariu.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-15-58.png"
+            },
+            {
+                "title": "标小智",
+                "url": "https://www.logosc.cn/?refer=aicangshu.net",
+                "desc": "LOGO设计神器；公司logo在线设计生成器 - 标小智LOGO神器",
+                "logo": "assets/images/logos/290ba-www.logosc.cn.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-16-15.png"
+            },
+            {
+                "title": "VisualizeAI",
+                "url": "https://visualizeai.pro/?refer=aicangshu.net",
+                "desc": "VisualizeAI是一个基于人工智能的设计可视化工具，可以帮助用户将他们的想法变成现实。它提供了100多种风格可供选择，允许定制以满足个人需求。它使用户能够在短短几秒钟内创建原...",
+                "logo": "assets/images/web/visualizeai.pro.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-16-44.png"
+            },
+            {
+                "title": "LogoLuck",
+                "url": "https://logoluck.nolibox.com/?refer=aicangshu.net",
+                "desc": "LogoLuck-在线logo设计-好设计多幸运",
+                "logo": "assets/images/logos/favicon.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-17-25.png"
+            },
+            {
+                "title": "腾讯AIDesign",
+                "url": "https://ailogo.qq.com/?refer=aicangshu.net",
+                "desc": "腾讯自研的智能设计平台，免费在线生成品牌logo、企业VI，仅需3步助您开启业务。",
+                "logo": "assets/images/logos/c6ed1-ailogo.qq.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screenshot_2023-04-03_15-44-29.png"
+            },
+            {
+                "title": "Face⁺⁺",
+                "url": "https://www.faceplusplus.com.cn/?refer=aicangshu.net",
+                "desc": "旷视科技Face⁺⁺人工智能开放平台,为您提供人脸识别,换脸,银行业OCR等各类人体,图像,文字识别功能服务,让你的应用读懂世界.",
+                "logo": "assets/images/logos/ba459-www.faceplusplus.com.cn.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-17-59.png"
+            },
+            {
+                "title": "MakeLogoAI",
+                "url": "https://makelogo.ai/?refer=aicangshu.net",
+                "desc": "为你的项目生成漂亮的标识。每个logo都是唯一的，100%由AI生成。多亏了人工智能的力量，在几分钟内产生几十个惊人的概念，而这一切只需要一杯咖啡。设计师品质的标志，比一杯咖啡...",
+                "logo": "assets/images/logos/eb4a9-makelogo.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screenshot_2023-04-03_15-47-44.png"
+            },
+            {
+                "title": "transpic",
+                "url": "https://transpic.ai/?refer=aicangshu.net",
+                "desc": "图像转绘，将你的图片转换为不同的风格。",
+                "logo": "assets/images/web/transpic.ai.ico",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-19-18.png"
+            },
+            {
+                "title": "意表",
+                "url": "https://yibiao.fun/?refer=aicangshu.net",
+                "desc": "意表 截屏识别各种类型表格，结果识别到剪贴板。程序常驻状态栏，支持快捷键操作。",
+                "logo": "assets/images/logos/1d4d8-yibiao.fun.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-19-44.png"
+            },
+            {
+                "title": "PromptBase",
+                "url": "https://promptbase.com/?refer=aicangshu.net",
+                "desc": "一个优质DALL·E, Midjourney, ChatGPT, Stable Diffusion &amp的市场;GPT-3提示。找到最好的提示，产生更好的结果，节省API成本，通过销售提示赚钱。",
+                "logo": "assets/images/web/promptbase.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-20-17.png"
+            },
+            {
+                "title": "NightCafe Studio",
+                "url": "https://creator.nightcafe.studio/?refer=aicangshu.net",
+                "desc": "用人工智能创造令人惊叹的艺术品。",
+                "logo": "assets/images/logos/68273-creator.nightcafe.studio.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-20-34.png"
+            },
+            {
+                "title": "皮卡智能抠图",
+                "url": "https://www.picup.shop",
+                "desc": "皮卡智能抠图-视频剪辑-ps抠图-在线图片编辑软件-最美证件照-照片动漫-皮卡智能一键抠图",
+                "logo": "assets/images/web/picup.shop.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-20-49.png"
+            },
+            {
+                "title": "Nolibox 计算美学",
+                "url": "https://nolibox.com",
+                "desc": "Nolibox 计算美学致力于用人工智能赋能设计创意，旗下「画宇宙」和「图宇宙」两款产品，为个人用户和企业用户提供全链路 AIGC 和人工智能设计服务。",
+                "logo": "assets/images/logos/creator_logo.svg",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-21-09.png"
+            },
+            {
+                "title": "Waifu Labs",
+                "url": "https://waifulabs.com",
+                "desc": "神奇的动漫肖像。",
+                "logo": "assets/images/logos/8f56d-waifulabs.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-21-32.png"
+            },
+            {
+                "title": "快速涂鸦",
+                "url": "https://quickdraw.withgoogle.com",
+                "desc": "神经网络能学会辨识涂鸦吗？只要将你的涂鸦作品添加到全球最大的涂鸦数据集，即可协助训练神经网络辨识涂鸦。这个数据集会公开共享，以便协助进行机器学习研究。",
+                "logo": "assets/images/logos/ab458-quickdraw.withgoogle.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-21-49.png"
+            },
+            {
+                "title": "Cleanup.pictures",
+                "url": "https://cleanup.pictures",
+                "desc": "删除不需要的对象从照片，人，文字，和缺陷从任何图片免费。这是非常容易，只需点击几下与我们的创意编辑工具。",
+                "logo": "assets/images/logos/c88b0-cleanup.pictures.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-22-18.png"
+            },
+            {
+                "title": "有道智云AI开放平台",
+                "url": "https://ai.youdao.com/",
+                "desc": "有道智云提供神经网络翻译、文字识别OCR服务以及行业解决方案，具备在线/离线翻译、在线OCR识别功能。",
+                "logo": "assets/images/logos/41b5f-ai.youdao.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-22-52.png"
+            },
+            {
+                "title": "鹿班",
+                "url": "https://luban.aliyun.com",
+                "desc": "鹿班 - 让设计更美好",
+                "logo": "assets/images/logos/ee5be-luban.aliyun.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-23-32.png"
+            },
+            {
+                "title": "Photo Editor",
+                "url": "https://photokit.com",
+                "desc": "PhotoKit是一款基于人工智能的在线照片编辑器，方便易用。裁剪，调整大小，旋转和应用基本编辑轻松，开始编辑您的照片，图片和图像与一个免费的在线照片编辑器。",
+                "logo": "assets/images/logos/9fec1-photokit.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-23-55.png"
+            },
+            {
+                "title": "Adobe Firefly",
+                "url": "https://firefly.adobe.com",
+                "desc": "尝试最新的生成式人工智能，让我们知道你的想法。",
+                "logo": "assets/images/web/Adobe.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-24-29.png"
+            },
+            {
+                "title": "Arthub.ai",
+                "url": "https://arthub.ai",
+                "desc": "Arthub.ai是一个展示、发现和创造ai生成艺术的创意社区。",
+                "logo": "assets/images/logos/962ea-arthub.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-25-34.png"
+            },
+            {
+                "title": "神采Prome AI",
+                "url": "https://www.promeai.com",
+                "desc": "神采，让创意照进现实！",
+                "logo": "assets/images/logos/46b6e-www.promeai.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-26-04.png"
+            },
+            {
+                "title": "Lobe",
+                "url": "https://www.lobe.ai",
+                "desc": "Lobe 使用免费、易于使用的工具帮助您训练机器学习模型。 它只需向它展示您希望它学习的示例，它就会自动训练可以在您的应用程序中发布的自定义机器学习模型",
+                "logo": "assets/images/logos/b538d-www.lobe.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-26-21.png"
+            },
+            {
+                "title": "Prompt Hunt",
+                "url": "https://www.prompthunt.com",
+                "desc": "使用DALL·E、稳定扩散和Midjourney创建、探索和分享AI艺术",
+                "logo": "assets/images/web/prompthunt.com.jpg",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_16-26-45.png"
+            }
+        ]
+    },
+    {
+        "name": "AI文本",
+        "icon": "el-icon-tickets",
+        "web": [
+            {
+                "title": "MagickPen",
+                "url": "https://magickpen.com/?refer=aicangshu.net",
+                "desc": "在线Ai智能写作助手，可以轻易地一键生成ideas、博客、计划、报告、简历、招聘启事、故事、口号、笑话，甚至歌词 ，还可以用于翻译、语法检测和代码修复",
+                "logo": "assets/images/web/magickpen.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-40-01.png"
+            },
+            {
+                "title": "AI帮个忙",
+                "url": "https://ai-toolbox.codefuture.top/?refer=aicangshu.net",
+                "desc": "AI文本小工具，用AI生成周报，点评，邮件……",
+                "logo": "assets/images/web/ai-toolbox.codefuture.top.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-40-42.png"
+            },
+            {
+                "title": "Fireflies",
+                "url": "https://fireflies.ai/?refer=aicangshu.net",
+                "desc": "团队记录、转录、搜索和分析语音对话。",
+                "logo": "assets/images/logos/aaf25-fireflies.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-40-56.png"
+            },
+            {
+                "title": "Glasp",
+                "url": "https://glasp.co/?refer=aicangshu.net",
+                "desc": "Highlight网页，AI生成全文摘要，导入笔记软件，还可以生成Youtube内容概要",
+                "logo": "assets/images/logos/ab2d0-glasp.co.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-41-18.png"
+            },
+            {
+                "title": "Yaara",
+                "url": "https://yaara.ai/?refer=aicangshu.net",
+                "desc": "使用 AI 编写经过验证的高转化率副本，以提高转化率和投资回报率。",
+                "logo": "assets/images/logos/8b59f-yaara.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-41-42.png"
+            },
+            {
+                "title": "HoppyCopy",
+                "url": "https://www.hoppycopy.co/?refer=aicangshu.net",
+                "desc": "编写精彩的长篇内容，使用向导立即将混乱的笔记转换为有用的大纲",
+                "logo": "assets/images/logos/1b7e4-www.hoppycopy.co.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-42-09.png"
+            },
+            {
+                "title": "Cowriter",
+                "url": "https://cowriter.org/?refer=aicangshu.net",
+                "desc": "AI 作家，帮助加速和激发你的创意写作",
+                "logo": "assets/images/logos/77744-cowriter.org.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-42-23.png"
+            },
+            {
+                "title": "Jasper",
+                "url": "https://www.jasper.ai/?refer=aicangshu.net",
+                "desc": "面向企业的生成式 AI 平台，为品牌量身定制内容。",
+                "logo": "assets/images/logos/1d3e9-www.jasper.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-42-43.png"
+            },
+            {
+                "title": "LongShot",
+                "url": "https://www.longshot.ai/?refer=aicangshu.net",
+                "desc": "在几分钟内从一个想法到一个博客",
+                "logo": "assets/images/logos/8f5f8-www.longshot.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-43-01.png"
+            },
+            {
+                "title": "Tome",
+                "url": "https://beta.tome.app/?refer=aicangshu.net",
+                "desc": "使用图文进行叙事，生成出PPT",
+                "logo": "assets/images/logos/75267-beta.tome.app.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-43-26.png"
+            },
+            {
+                "title": "Copy.ai",
+                "url": "https://www.copy.ai/?refer=aicangshu.net",
+                "desc": "优化从他人拷贝博客或文案，并提高转化率",
+                "logo": "assets/images/logos/af5a9-www.copy.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-44-17.png"
+            },
+            {
+                "title": "Notion AI",
+                "url": "https://www.notion.so/product/ai?wr=a7d32b88d723dd1e&utm_source=notionClient&utm_medium=copyButton&utm_campaign=ai-beta&utm_content=share&refer=aicangshu.net",
+                "desc": "Notion开发的专注笔记的AI",
+                "logo": "assets/images/logos/d0f61-www.notion.so.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-44-50.png"
+            },
+            {
+                "title": "Writesonic",
+                "url": "https://writesonic.com/?refer=aicangshu.net",
+                "desc": "Writesonic 是一个人工智能作家，为博客、Facebook 广告、谷歌广告和 Shopify 免费创建对 SEO 友好的内容。",
+                "logo": "assets/images/logos/83b20-writesonic.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-45-19.png"
+            },
+            {
+                "title": "Article Fiesta",
+                "url": "https://articlefiesta.com/?refer=aicangshu.net",
+                "desc": "AI 作家，可帮助您为您的网站或博客创建文章。您只需要提供关键字，剩下的交给我们。我们的人工智能机器人将创建长篇、支持 SEO 的文章，准备立即在您的网站上发布。",
+                "logo": "assets/images/logos/65125-articlefiesta.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-45-48.png"
+            },
+            {
+                "title": "Rytr",
+                "url": "https://rytr.me/?refer=aicangshu.net",
+                "desc": "Rytr 是一个人工智能写作助手，可以帮助您创建高质量的内容，在几秒钟内，在成本的一小部分！",
+                "logo": "assets/images/logos/a2aac-rytr.me.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-46-10.png"
+            },
+            {
+                "title": "Jenni AI",
+                "url": "https://jenni.ai/?refer=aicangshu.net",
+                "desc": "使用最先进的 AI 写作助手为您的写作增光添彩。",
+                "logo": "assets/images/logos/df7b0-jenni.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-46-36.png"
+            },
+            {
+                "title": "腾讯Effidit",
+                "url": "https://effidit.qq.com/?refer=aicangshu.net",
+                "desc": "智能创作助手 Effidit（Efficient and Intelligent Editing） 是由腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验",
+                "logo": "assets/images/logos/53d69-effidit.qq.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-46-53.png"
+            },
+            {
+                "title": "AI营销内容创作copyai.cn",
+                "url": "http://copyai.cn/?refer=aicangshu.net",
+                "desc": "一键生成营销文本、配图与短视频等多类型内容",
+                "logo": "assets/images/web/e5ba0-copyai.cn.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-47-27.png"
+            },
+            {
+                "title": "5118智能伪原创工具",
+                "url": "https://wyc.5118.com/?refer=aicangshu.net",
+                "desc": "通过强大的AI智能算法将任何文章进行在线原创检测,变成另外一篇独一无二的文章，并集成原创度检查工具，使您的文章在搜索引擎和新媒体获得大量流量排名",
+                "logo": "assets/images/logos/favicon.ico",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-48-14.png"
+            },
+            {
+                "title": "微软爱写作网站",
+                "url": "https://aimwriting.mtutor.engkoo.com",
+                "desc": "为英文考试作文打分，支持从小学到雅思8大考试",
+                "logo": "assets/images/logos/b7e3d31472daacc6778861904fc9fec7_favicon.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-48-39.png"
+            },
+            {
+                "title": "Giiso写作机器人",
+                "url": "https://www.giiso.com",
+                "desc": "Giiso写作机器人，一款内容创作AI辅助工具",
+                "logo": "assets/images/logos/v2-d2a7dee10083555ac3c0a8a3960da85b_720w.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-49-12.png"
+            },
+            {
+                "title": "【彩云ai】小梦续写",
+                "url": "https://if.caiyunai.com",
+                "desc": "彩云小梦-为文学创作者及文学爱好者提供Ai辅助创作编辑工具",
+                "logo": "assets/images/logos/v2-aa5598a85c368b2fd741504fc55efdf6_720w.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-50-29.png"
+            },
+            {
+                "title": "New Bing",
+                "url": "https://www.bing.com/new",
+                "desc": "微软推出的新版结合了ChatGPT功能的必应",
+                "logo": "assets/images/logos/new-bing-icon.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-50-58.png"
+            }
+        ]
+    },
+    {
+        "name": "AI视频",
+        "icon": "el-icon-video-camera",
+        "web": [
+            {
+                "title": "rephrase.ai",
+                "url": "https://www.rephrase.ai/?refer=aicangshu.net",
+                "desc": "ai生成个性化视频广告",
+                "logo": "assets/images/logos/3e274-www.rephrase.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-52-03.png"
+            },
+            {
+                "title": "hourone",
+                "url": "https://hourone.ai/?refer=aicangshu.net",
+                "desc": "通过虚拟人类演示者将文本转换为极具吸引力的视频",
+                "logo": "assets/images/logos/a594d-hourone.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-52-31.png"
+            },
+            {
+                "title": "synths.video",
+                "url": "https://synths.video/?refer=aicangshu.net",
+                "desc": "一键将您的博客文章转换为带有人类头像和画外音的视频。无需手动操作。",
+                "logo": "assets/images/logos/a594d-hourone.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-53-27.png"
+            },
+            {
+                "title": "tavus",
+                "url": "https://www.tavus.io/?refer=aicangshu.net",
+                "desc": "通过输入文本来替换视频中的语言，达到为每个人发的视频都是独一无二的，而你只需要录制一次",
+                "logo": "assets/images/logos/6af60-www.tavus.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-53-52.png"
+            },
+            {
+                "title": "Cascadeur",
+                "url": "https://cascadeur.com/?refer=aicangshu.net",
+                "desc": "AI制作骨骼动画",
+                "logo": "assets/images/logos/decbe-cascadeur.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-54-32.png"
+            },
+            {
+                "title": "D-ID",
+                "url": "https://www.d-id.com/?refer=aicangshu.net",
+                "desc": "口播必备，令你的虚拟人开口说话！",
+                "logo": "assets/images/logos/2eadf-www.d-id.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-55-08.png"
+            },
+            {
+                "title": "Munch",
+                "url": "https://www.getmunch.com/?refer=aicangshu.net",
+                "desc": "智能一键爬取并剪辑视频至tiktok",
+                "logo": "assets/images/logos/779f7-www.getmunch.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-55-37.png"
+            },
+            {
+                "title": "Pollinations",
+                "url": "https://pollinations.ai/?refer=aicangshu.net",
+                "desc": "可以生成图片和视频的AI工具",
+                "logo": "assets/images/logos/d84bf-pollinations.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-56-05.png"
+            },
+            {
+                "title": "Runway",
+                "url": "https://runwayml.com/?refer=aicangshu.net",
+                "desc": "用AI塑造先进的视频编辑能力，帮助视频创作者生产更优质的视频内容",
+                "logo": "assets/images/logos/43def-runwayml.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-56-43.png"
+            },
+            {
+                "title": "Fliki",
+                "url": "https://fliki.ai/?refer=aicangshu.net",
+                "desc": "创建视频脚本或博客文章使用真实的声音在2分钟！将博客文章转换成视频。从文字到语音。富库存媒体库。受到来自谷歌、 Meta、 Bytedance 和 Upwork 等公司的3万多名内容创作者的信任。",
+                "logo": "assets/images/logos/741f6-fliki.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-57-00.png"
+            },
+            {
+                "title": "Synthesia",
+                "url": "https://www.synthesia.io/?refer=aicangshu.net",
+                "desc": "通过简单地输入文本创建 AI 视频。易于使用，便宜，可扩展。直接从你的浏览器上制作有吸引力的视频。免费演示。",
+                "logo": "assets/images/logos/cae68-www.synthesia.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-57-40.png"
+            },
+            {
+                "title": "Rephrase AI",
+                "url": "https://www.rephrase.ai/?refer=aicangshu.net",
+                "desc": "人工智能合成视频创建平台，可在几分钟内将纯文本转换为高度吸引人的专业质量视频。",
+                "logo": "assets/images/logos/41dfc-www.rephrase.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-58-15.png"
+            },
+            {
+                "title": "BiliGPT视频内容一键总结",
+                "url": "https://b.jimmylv.cn",
+                "desc": "B 站视频内容一键总结，基于chatgpt。",
+                "logo": "assets/images/logos/8a79e-b.jimmylv.cn.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-58-51.png"
+            },
+            {
+                "title": "Colossyan",
+                "url": "https://www.colossyan.com",
+                "desc": "colossian Creator使视频创作简单和无压力。发现我们的AI视频创作者与真正的演员。在5分钟内创建视频。在这里免费开始。",
+                "logo": "assets/images/logos/2b3b9-www.colossyan.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-59-26.png"
+            },
+            {
+                "title": "D-ID",
+                "url": "https://www.d-id.com/?refer=aicangshu.net",
+                "desc": "向昂贵的传统视频创作说再见吧!在几分钟内从纯文本创建视频!易于使用，廉价和可扩展。",
+                "logo": "assets/images/logos/ac4ad-www.d-id.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_12-59-55.png"
+            },
+            {
+                "title": "Vidyo",
+                "url": "https://vidyo.ai",
+                "desc": "从长视频立即制作短视频。使用强大的AI从现有视频中创建短剪辑✨节省90%的时间和精力。",
+                "logo": "assets/images/logos/d632b-vidyo.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-00-15.png"
+            }
+        ]
+    },
+    {
+        "name": "AI音频",
+        "icon": "el-icon-microphone",
+        "web": [
+            {
+                "title": "Castmagic",
+                "url": "https://www.castmagic.io",
+                "desc": "Castmagic是使用人工智能将播客音频转换为可用内容的最快方法。上传您的mp3，立即获得摘要、关键主题和章节分解、有意义的引用、立即可供发布的博客和社交内容。",
+                "logo": "assets/images/logos/e6492-www.castmagic.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-01-18.png"
+            },
+            {
+                "title": "Shownotes",
+                "url": "https://www.shownotes.io",
+                "desc": "借助于chatGPT，总结一段播客。",
+                "logo": "assets/images/logos/2c9de-www.shownotes.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-01-51.png"
+            },
+            {
+                "title": "Adobe Podcast",
+                "url": "https://podcast.adobe.com",
+                "desc": "提供2个免费的快速工具来增强您的内容的音频。增强语音-通过去除所有背景噪声和回声来增强语音。麦克风检查-解锁高质量的声音从你的麦克风。主要产品承诺提供人工智能音频录制和编...",
+                "logo": "assets/images/logos/4627b-podcast.adobe.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-02-30.png"
+            },
+            {
+                "title": "TTSLabs",
+                "url": "https://ttslabs.ai",
+                "desc": "ttslab让twitch streamers能够自定义他们的文本到语音捐赠，启用自定义声音，添加独特的声音剪辑和更多!所有这些都具有AI TTS的力量，并与Twitch, Streamlabs和Streamelements无缝...",
+                "logo": "assets/images/web/ttslabs.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-02-47.png"
+            },
+            {
+                "title": "koolio.ai",
+                "url": "https://www.koolio.ai",
+                "desc": "从概念到播客创作只需几秒钟。您可以转录音频，自动选择声音效果或音乐，并轻松地执行音频操作和操作。",
+                "logo": "assets/images/logos/332b5-www.koolio.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-03-36.png"
+            },
+            {
+                "title": "Brain.fm",
+                "url": "https://brain.fm",
+                "desc": "Brain.fm 的专注音乐旨在帮助您更好地工作，通过融入背景，让您可以集中注意力",
+                "logo": "assets/images/web/brain.fm.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-04-00.png"
+            },
+            {
+                "title": "Maverick",
+                "url": "https://www.trymaverick.com",
+                "desc": "利用自动化个性化视频与客户建立牢固的关系。我们在Maverick协助不同的业务，如电子商务品牌、在线零售商、医疗保健等，使用人工智能和Deep Tech生成数千个独特的个性化视频。你只...",
+                "logo": "assets/images/web/trymaverick.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-04-27.png"
+            },
+            {
+                "title": "Krisp",
+                "url": "https://krisp.ai",
+                "desc": "Krisp的人工智能解决方案消除了会议中的背景噪音和回声，只留下人类的声音。具有噪声和回声消除，小部件，见解和呼叫摘要等功能。",
+                "logo": "assets/images/logos/76e74-krisp.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-04-55.png"
+            },
+            {
+                "title": "Synthesys",
+                "url": "https://synthesys.io",
+                "desc": "Synthesys是一家领先的AI虚拟媒体平台，用户只需点击几下鼠标就可以制作专业的AI画外音和AI视频。它为用户提供了一个大型的专业声音库，74种humatar, 38种女性和36种男性声音，66...",
+                "logo": "assets/images/web/synthesys.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-06-09.png"
+            },
+            {
+                "title": "Beepbooply",
+                "url": "https://beepbooply.com",
+                "desc": "Beepbooply是一款人工智能驱动的文本转语音工具，允许用户快速轻松地生成具有逼真声音的音频内容。超过80种语言、120种口音和900种声音，用户可以自定义他们的音频，并生成几个小...",
+                "logo": "assets/images/web/beepbooply.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-06-36.png"
+            },
+            {
+                "title": "BlogcastTM",
+                "url": "https://blogcast.host",
+                "desc": "BlogcastTM是一个文本转语音的工具，允许用户创建播客、视频、电子学习课程的音频和音频书籍，而无需录制。它由人工智能驱动的文本转语音技术提供支持，并提供多种声音和语言可供...",
+                "logo": "assets/images/web/blogcast.host.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-07-03.png"
+            },
+            {
+                "title": "Whisper（OpenAI）",
+                "url": "https://openai.com/research/whisper",
+                "desc": "Whisper是一个开源的自动语音识别系统，经过68万小时的多语言和多任务监督数据训练，这些数据是从网络上收集的。",
+                "logo": "assets/images/web/openai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-07-30.png"
+            },
+            {
+                "title": "TextToSpeech在线文本转语音",
+                "url": "https://www.text-to-speech.cn/?refer=aicangshu.net",
+                "desc": "Text To Speech，文本转语音，文本朗读，让机器能够说话。构建自然说话的应用和服务，从 147 种语言和变体中选择 456 种语音。借助高表现力和类似人类的神经语音，让你的方案生动...",
+                "logo": "assets/images/logos/9cd3c6cc1b3470b873a3866dba8937cf_speech.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-08-19.png"
+            },
+            {
+                "title": "TTSMaker",
+                "url": "https://ttsmaker.com",
+                "desc": "TTSMaker是一个在线的文本转语音工具，免费的（号称永久免费）！良心的！基于微软Azure内核的！",
+                "logo": "assets/images/logos/f7bdca3b9d1d8fe017605d2b753892e7_favicon_version3.ico",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-08-36.png"
+            },
+            {
+                "title": "MusicLM",
+                "url": "https://google-research.github.io/seanet/musiclm/examples/?ref=gpt3demo.com&refer=aicangshu.net",
+                "desc": "谷歌的AI作曲工具",
+                "logo": "assets/images/logos/dceb1-google-research.github.io.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-09-01.png"
+            },
+            {
+                "title": "Uberduck",
+                "url": "https://uberduck.ai/?refer=aicangshu.net",
+                "desc": "拥有很多电影动漫声库，适合做同人配音内容",
+                "logo": "assets/images/logos/56f7b-uberduck.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-09-24.png"
+            },
+            {
+                "title": "声咖",
+                "url": "https://shengka.ai.sogou.com/?refer=aicangshu.net",
+                "desc": "很灵活的AI配音网站，适合用来做有声书等比较精细化的配音",
+                "logo": "assets/images/logos/bd598-shengka.ai.sogou.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-09-43.png"
+            },
+            {
+                "title": "网易天音",
+                "url": "https://tianyin.163.com/?refer=aicangshu.net#",
+                "desc": "自动编曲",
+                "logo": "assets/images/logos/e90ef-tianyin.163.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-10-00.png"
+            },
+            {
+                "title": "Mubert（抱脸Text2Music）",
+                "url": "https://huggingface.co/spaces/OneAfterlife/MubertTTM?refer=aicangshu.net",
+                "desc": "抱脸上比较火的T2M模型，通过文字生成音乐，找到一些音乐灵感！",
+                "logo": "assets/images/logos/c6778-huggingface.co.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-10-52.png"
+            },
+            {
+                "title": "AIVA",
+                "url": "https://www.aiva.ai/?refer=aicangshu.net",
+                "desc": "AI自动进行编曲生成音乐",
+                "logo": "assets/images/logos/c1a55-www.aiva.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-11-20.png"
+            },
+            {
+                "title": "Easy-Peasy.AI",
+                "url": "https://easy-peasy.ai/?refer=aicangshu.net",
+                "desc": "包含ai生成文案，图片，智能对话，音频转文案等功能的集成应用",
+                "logo": "assets/images/logos/c2fcf-easy-peasy.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-11-33.png"
+            },
+            {
+                "title": "LALAL AI",
+                "url": "https://www.lalal.ai/?refer=aicangshu.net",
+                "desc": "智能去除BMG，保留人声",
+                "logo": "assets/images/logos/2e965-www.lalal.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-11-52.png"
+            },
+            {
+                "title": "Murf",
+                "url": "https://murf.ai/?refer=aicangshu.net",
+                "desc": "AI生成真人语音（英文）",
+                "logo": "assets/images/logos/41f13-Murf.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-12-17.png"
+            },
+            {
+                "title": "Mubert",
+                "url": "https://mubert.com/?refer=aicangshu.net",
+                "desc": "为内容创作者、品牌和开发者提供免版税的新音乐生态系统。来看看我们的高品质音乐如何提升您的内容 something！",
+                "logo": "assets/images/logos/9cb6d-mubert.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-12-45.png"
+            },
+            {
+                "title": "papercup",
+                "url": "https://www.papercup.com/?refer=aicangshu.net",
+                "desc": "用AI制作配音",
+                "logo": "assets/images/logos/5319d-www.papercup.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-13-06.png"
+            },
+            {
+                "title": "Voice AI",
+                "url": "https://voice.ai",
+                "desc": "免费实时AI变声器。其他功能还包括语音克隆和自定义语音集成。它可以被主播、游戏玩家和企业用于会议和通话。在测试的第一个月拥有5万月活跃用户，这是世界上第一个去中心化的语音...",
+                "logo": "assets/images/logos/89b8a-voice.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-13-42.png"
+            },
+            {
+                "title": "Voicemod",
+                "url": "https://www.voicemod.net",
+                "desc": "现在下载- Voicemod一个有趣和可怕的变声应用程序。一个声音转换器和修饰器的效果，让你听起来像一个女孩或机器人",
+                "logo": "https://www.voicemod.net/v4/wp-content/uploads/2021/02/Favicon-@2x.svg",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-14-05.png"
+            },
+            {
+                "title": "MotionSound文本转语音",
+                "url": "https://motionsound.yoo-ai.com",
+                "desc": "更智能、更专业、更轻量化的AI智能生成语音技术，能适应多场景需求，配音不再有烦恼。",
+                "logo": "assets/images/web/motionsound.yoo-ai.svg",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-14-21.png"
+            },
+            {
+                "title": "Cleanvoice AI",
+                "url": "https://cleanvoice.ai",
+                "desc": "不要浪费时间编辑你的播客。Cleanvoice是一款人工智能软件，可以从你的播客或录音中去除填充音、结巴音和口型音。",
+                "logo": "assets/images/web/celanvoice.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-14-43.png"
+            },
+            {
+                "title": "Altered",
+                "url": "https://www.altered.ai",
+                "desc": "增强你的声音。我们独特的技术允许您将您的声音更改为任何我们精心策划的组合或自定义声音，并创建引人注目的专业声音表演。",
+                "logo": "assets/images/web/altered.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-15-23.png"
+            },
+            {
+                "title": "依图语音开放平台",
+                "url": "https://speech.yitutech.com",
+                "desc": "依图语音开放平台",
+                "logo": "assets/images/logos/73b93-speech.yitutech.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-15-59.png"
+            },
+            {
+                "title": "One.ai",
+                "url": "https://www.oneai.com",
+                "desc": "用一个人工智能生成式人工智能API提升你的业务。使用尖端语言AI处理文本、音频和视频。",
+                "logo": "assets/images/logos/ac40a-www.oneai.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-16-14.png"
+            },
+            {
+                "title": "Riffusion",
+                "url": "https://www.riffusion.com",
+                "desc": "Stable diffusion 实时音乐生成",
+                "logo": "assets/images/logos/e6922-www.riffusion.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-16-39.png"
+            },
+            {
+                "title": "Beatoven.ai",
+                "url": "https://sync.beatoven.ai",
+                "desc": "Beatoven。ai使用先进的ai音乐生成技术来编写独特的基于情绪的音乐，以适应您的视频或播客的每个部分。",
+                "logo": "assets/images/web/sync.beatoven.ai.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-17-19.png"
+            },
+            {
+                "title": "标贝悦读",
+                "url": "https://yuedu.data-baker.com",
+                "desc": "标贝悦读在线配音平台,快速将文字合成为声音,支持中文,英文混读,支持普通男声,女声,童声,情感语音等,满足您对声音的各种需求.可应用于文学有声朗读,游戏任务播报等场景。",
+                "logo": "assets/images/logos/ab58a-yuedu.data-baker.com.png",
+                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-03_13-17-33.png"
+            }
+        ]
+    }
+]

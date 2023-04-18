@@ -1,0 +1,211 @@
+@import url('https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css');
+@import url('https://s1.hdslb.com/bfs/static/jinkela/long/font/medium.css');
+
+blockquote, body, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, li, ol, p, pre, td, textarea, th, ul{
+font-family: -apple-system,HarmonyOS_Regular,HarmonyOS_Medium,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji !important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: 500;
+}
+h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: 40px;
+    margin-bottom: 9px;
+}
+
+.el-upload__input{
+    display: none !important;
+}
+
+/*自定义*/
+.page-container .main-content{
+    padding: 0px 260px;
+}
+
+.sidebar-menu-inner {
+    padding: 10px;
+}
+
+.sidebar-menu .logo-env{
+    padding: 20px 40px 20px 0;
+}
+
+.sidebar-menu .main-menu {
+    padding: 0px;
+    margin-top: 0px;
+    list-style: none;
+}
+
+.sidebar-menu .main-menu li.active>a {
+    color: #37a2e1;
+}
+
+/*.main-top{
+    background-color: #555;
+    height: 100px;
+}*/
+
+.add-box .el-dialog{
+    width: 500px;
+}
+
+.urls-box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.url-card {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+
+.url-card .xe-user-img img{
+    width: 40px;
+    height: 40px;
+}
+
+.img-circle {
+    border-radius: 5px;
+}
+
+.tooltip .tooltip-arrow{
+    /*三角*/
+    border-bottom-color: #606060 !important;
+}
+.tooltip .tooltip-inner{
+    /*文字div*/
+    border-radius: 4px;
+    background-color: #606060;
+}
+
+footer.main-footer .go-up {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+}
+
+@media (max-width: 1600px){
+    .page-container .main-content{
+        padding: 0px 100px;
+    }
+    .url-card {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+}
+
+@media (max-width: 768px){
+    h4{
+        font-size: 16px;
+    }
+    .clear66{
+        margin-top: 76px !important;
+    }
+
+    .page-container .main-content{
+        padding: 0px 15px;
+    }
+
+    .add-box .el-dialog{
+        width: 85%;
+    }
+
+    .url-card {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .sidebar-menu{
+        position: fixed !important;
+        z-index: 999;
+        top: 0;
+    }
+
+    .sidebar-menu .logo-env:before,
+    .sidebar-menu .logo-env:after {
+        display: none;
+    }
+
+    .sidebar-menu .logo-env{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px !important;
+    }
+
+
+    .sidebar-menu .logo{
+        width: 88px;
+    }
+
+    /*
+    .sidebar-menu .web-collapsed{
+        display:block !important;
+    }*/
+
+
+
+    .main-footer{
+        display: none;
+    }
+
+    .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:hover, .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:active, .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:focus {
+        color: #919191;
+    }
+}
+
+.box2 {
+    cursor: pointer;
+    border-radius: 6px;
+    background-color: #fff;
+    border-radius: 4px;
+    margin: 20px 0 0 0;
+    padding: 20px 18px !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.box2:hover {
+    transform: translateY(-6px);
+    -webkit-transform: translateY(-6px);
+    -moz-transform: translateY(-6px);
+    box-shadow: 0 26px 40px -24px rgba(0, 36, 100, 0.3);
+    -webkit-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, 0.3);
+    -moz-box-shadow: 0 26px 40px -24px rgba(0, 36, 100, 0.3);
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+xe-comment-entry{
+    display: flex;
+    align-items: center;
+}
+
+.xe-comment-entry img {
+    float: left;
+    display: block;
+    margin-right: 10px;
+}
+
+.xe-comment p {
+    margin-bottom: 0px;
+}
+.overflowClip_1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.overflowClip_2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
