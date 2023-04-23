@@ -1,7 +1,7 @@
 export default {
     /*网站设置*/
     title:'K-Toolbar',  //网站标题
-    logoText:'K',    //网站文字logo,不填则不显示
+    logoText:'',    //网站文字logo,不填则不显示
     navStyle:1,      //网址导航样式：1经典样式，2卡片样式
     connect:{       //右上角反馈按钮
         text:'反馈',
